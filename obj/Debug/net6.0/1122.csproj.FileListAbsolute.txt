@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1122\bin\Debug\net6.0\1122.exe
+C:\Users\User\Desktop\1122\bin\Debug\net6.0\1122.deps.json
+C:\Users\User\Desktop\1122\bin\Debug\net6.0\1122.runtimeconfig.json
+C:\Users\User\Desktop\1122\bin\Debug\net6.0\1122.dll
+C:\Users\User\Desktop\1122\bin\Debug\net6.0\1122.pdb
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.AssemblyInfo.cs
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.dll
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\refint\1122.dll
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.pdb
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\1122.genruntimeconfig.cache
+C:\Users\User\Desktop\1122\obj\Debug\net6.0\ref\1122.dll
